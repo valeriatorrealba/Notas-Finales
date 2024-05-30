@@ -1,4 +1,4 @@
-# Desafio Evaluado - Notas Finales
+# Desafio Guiado - Notas Finales
 
 En este desafío se ocupo Html5, Css3, Boostrap, JavaScript
 
