@@ -10,7 +10,7 @@ La página de "Notas Finales" utiliza HTML, CSS y JavaScript, con el apoyo de Bo
 
 A continuación, se muestra la imagen del resultado codificado:
 
-![notasFinales](screenshot/notasFinales.png)
+![notasFinales](assets/screenshot/notasFinales.png)
 
 ## Estructura del Proyecto
 
